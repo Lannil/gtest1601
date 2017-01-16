@@ -8,7 +8,7 @@ namespace FirstTest
         {
             // määritellään muuttuja
             string nimi = "Matti Mainio";
-            string nimi2 = "Matti Mainio00000";
+            string nimi2 = "Matti Mainiolta";
             // tulostetaan muuttujan arvo konsolille
             Console.WriteLine("Nimi on " + nimi);
             Console.WriteLine("Nimi on " + nimi2);
